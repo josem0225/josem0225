@@ -1,16 +1,23 @@
-## Hi there 👋
+# Jose Miguel Rozo Baez
 
-<!--
-**josem0225/josem0225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer specialized in Distributed Systems, Cloud Infrastructure (Azure), and Automation.
 
-Here are some ideas to get you started:
+I have over 6 years of experience engineering scalable solutions for multinational corporations like Nokia and SLB. My focus is on backend architecture, CI/CD pipelines, and modernizing legacy systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio Context
+
+The majority of my professional work resides in private enterprise repositories (Azure DevOps / GitLab) under strict Non-Disclosure Agreements (NDAs). I cannot share code related to the $1M+ savings automation projects or critical infrastructure migrations I have led.
+
+However, I am actively building open-source tooling to demonstrate my current engineering capabilities and interest in new technologies.
+
+## Featured Project
+
+**Employment Agent (PoC)**
+I am currently developing a Python-based automation tool that scrapes, analyzes, and filters job opportunities using LLMs. This project demonstrates my ability to work with Python, APIs, and data processing outside of the .NET ecosystem.
+
+- Repo: https://github.com/josem0225/employment-agent
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/jose-miguel-rozo-baez-b079b7102/
+- Email: josem407r@gmail.com
